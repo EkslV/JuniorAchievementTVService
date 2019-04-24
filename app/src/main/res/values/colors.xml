@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fastlane_background">#E71515</color>
+    <color name="primary">#0299E9</color>
+    <color name="search_opaque">#5F17DF</color>
+</resources>
